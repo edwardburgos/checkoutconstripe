@@ -50,6 +50,7 @@ export default function Checkout() {
     //         card: elements.getElement(CardElement)
     //     })
     // }
+    //
 
     // function actualizarCargado() {
     //     setCargadoCompleto(true)
