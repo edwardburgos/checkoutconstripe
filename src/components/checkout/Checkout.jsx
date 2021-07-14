@@ -56,6 +56,8 @@ export default function Checkout() {
     //     setCargadoCompleto(true)
     // }
 
+    //
+    
     // let card = elements.getElement('card');
 
     // useEffect(() => {
